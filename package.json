@@ -8,9 +8,14 @@
     "@midwayjs/core": "^3.0.0",
     "@midwayjs/decorator": "^3.0.0",
     "@midwayjs/info": "^3.0.0",
+    "@midwayjs/jwt": "3",
     "@midwayjs/koa": "^3.0.0",
     "@midwayjs/logger": "^2.14.0",
-    "@midwayjs/validate": "^3.0.0"
+    "@midwayjs/typeorm": "3",
+    "@midwayjs/validate": "^3.0.0",
+    "@types/jsonwebtoken": "^8.5.8",
+    "sqlite3": "^5.0.11",
+    "typeorm": "^0.3.7"
   },
   "devDependencies": {
     "@midwayjs/cli": "^1.2.90",
